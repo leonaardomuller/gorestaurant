@@ -1,7 +1,7 @@
 <h3 align="center">
   <img src="https://user-images.githubusercontent.com/60147880/142247817-537916c5-1b95-4aa1-abd8-84e2814b273f.png" marginTop="100px" width="400px"/>
 </h3> 
-<h1>Projeto GoRestaurant</h1>
+<h1>💻 Projeto GoRestaurant</h1>
  Exemplo interface admin de restaurante.
 
 ## 💻 Projeto
@@ -69,6 +69,7 @@ Para isso, deixamos instalado no package.json uma dependência chamada `json-ser
   <tr>
 
    <tr>
-    <td><img src ="https://user-images.githubusercontent.com/60147880/142249358-e54a9024-b6d0-458a-94a0-c738384bb9d4.PNG"/></td>
+    <td><img src ="https://user-images.githubusercontent.com/60147880/142251282-5002aa61-5e84-4e28-acf3-eee7757f1aa6.PNG"/></td>
+    <td><img src ="https://user-images.githubusercontent.com/60147880/142251292-25fa9af0-8464-49ec-bedd-8364f53747f4.PNG"/></td>
   <tr>
 </table>
